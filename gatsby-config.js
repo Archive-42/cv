@@ -6,9 +6,9 @@ module.exports = {
     },
     module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Bryan Guner",
     locale: "en",
-    title: "John Doe",
+    title: "Bryan Guner",
     formspreeEndpoint: "https://formspree.io/f/{your-id}",
   },
     plugins: [
