@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-class Contacts extends React.Component {
+class Contact extends React.Component {
   constructor(props) {
     super(props);
   }
