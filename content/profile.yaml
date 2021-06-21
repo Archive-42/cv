@@ -6,7 +6,7 @@
   image: images/profile.png
   location: 'New York, USA'
   relocation: true
-  company: Atomic Studio
+  company: WebDevHub
   for_hire: true
   focus: Learning Gatsby
   focus_url: 'https://https//bgoonz-blog.netlify.app/'
