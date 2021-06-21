@@ -29,12 +29,3 @@ class Contacts extends React.Component {
 export default Contacts;
 
 
-
-var NewComponent = React.createClass({
-  render: function() {
-    return (
-
-      
-    );
-  }
-});
