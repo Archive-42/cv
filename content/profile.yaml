@@ -26,6 +26,8 @@
     - React
     - VSCode
     - Gatsby
+    - Redux
+    - 
   budget:
     currency: $
     min: 5
