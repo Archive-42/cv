@@ -23,7 +23,7 @@
     - Jest
     - jQuery
     - MongoDB
-    - Docker
+    - Bash
     -
   tools:
     - React
