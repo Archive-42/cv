@@ -1,4 +1,23 @@
 import React from 'react';
+
+
+import React from 'react';
+
+class Contacts extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return (
+      <div></div>
+    );
+  }
+}
+
+export default Contacts;
+
+
+
 var NewComponent = React.createClass({
   render: function() {
     return (
