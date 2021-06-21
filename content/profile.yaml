@@ -22,7 +22,7 @@
     - psql
     - Jest
     - jQuery
-    - MongoDB
+    - C++
     - Bash
     -
   tools:
