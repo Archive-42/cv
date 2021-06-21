@@ -30,7 +30,11 @@
     - Node.js
     - Express
     - Powershell
-    - 
+    - Postman
+    - ESLint
+    - Emmet
+    - LESS
+    
   budget:
     currency: $
     min: 5
