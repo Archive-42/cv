@@ -30,7 +30,7 @@
     - Node.js
     - Express
     - Powershell
-    - vscode
+    - 
   budget:
     currency: $
     min: 5
