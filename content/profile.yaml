@@ -24,7 +24,7 @@
     - jQuery
     - MongoDB
     - Docker
-    
+    -
   tools:
     - React
     - VSCode
