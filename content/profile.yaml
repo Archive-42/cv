@@ -21,7 +21,8 @@
     - SQL
     - Java
     - Typescript
-    - 
+    - psql
+    
   tools:
     - React
     - VSCode
