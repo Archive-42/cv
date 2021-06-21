@@ -8,19 +8,7 @@ class Contacts extends React.Component {
   }
   render() {
     return (
-      <div></div>
-    );
-  }
-}
-
-export default Contacts;
-
-
-
-var NewComponent = React.createClass({
-  render: function() {
-    return (
-
+      <div>
       <form id="fs-frm" name="simple-contact-form" acceptCharset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
         <fieldset id="fs-frm-inputs">
           <label htmlFor="full-name">Full Name</label>
@@ -33,6 +21,20 @@ var NewComponent = React.createClass({
         </fieldset>
         <input type="submit" defaultValue="Submit" />
       </form>
+      </div>
+    );
+  }
+}
+
+export default Contacts;
+
+
+
+var NewComponent = React.createClass({
+  render: function() {
+    return (
+
+      
     );
   }
 });
