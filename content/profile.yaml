@@ -27,7 +27,9 @@
     - VSCode
     - Gatsby
     - Redux
-    - 
+    - Node.js
+    - Express
+    - Powershell
   budget:
     currency: $
     min: 5
