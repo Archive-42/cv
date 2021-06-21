@@ -9,7 +9,7 @@ module.exports = {
     description: "Personal page of Bryan Guner",
     locale: "en",
     title: "Bryan Guner",
-    formspreeEndpoint: "https://formspree.io/f/{your-id}",
+    formspreeEndpoint: "https://formspree.io/f/mdoyzvay",
   },
     plugins: [
         {
