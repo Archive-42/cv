@@ -119,9 +119,9 @@ Here is the list of configuration options you can set in `gatsby-config.js`:
 ```javascript
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Bryan Guner",
     locale: "en",
-    title: "John Doe",
+    title: "Bryan Guner",
   },
   plugins: [
     {
