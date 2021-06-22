@@ -4,13 +4,13 @@
   email: bryan.guner.dev@gmail.com
   profession: Web Developer
   image: images/circle-cropped (2).png
-  location: 'New York City Area, USA'
+  location: "New York City Area, USA"
   relocation: true
   company: WebDevHub
   for_hire: true
   focus: Learning Gatsby
-  focus_url: 'https://https//bgoonz-blog.netlify.app/'
-  about: ''
+  focus_url: "https://https//bgoonz-blog.netlify.app/"
+  about: ""
   skills:
     - JavaScript
     - HTML / CSS

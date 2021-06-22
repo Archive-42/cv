@@ -13,6 +13,7 @@
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^1.0.14",
     "gatsby": "^2.27.5",
+    "lebab": "^3.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
